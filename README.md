@@ -1,6 +1,6 @@
-![MastHead](https://github.com/Emilyscs/images/blob/main/ba.jpg)
+# Olá! eu sou a Emily <img src="https://img.icons8.com/color/48/000000/cat_in_the_bin.png"/>
 
-# Olá! <img src="https://img.icons8.com/color/48/000000/cat_in_the_bin.png"/>
+![MastHead](https://github.com/Emilyscs/images/blob/main/ba.jpg)
 
   - 📚 Estudando Python.
 
