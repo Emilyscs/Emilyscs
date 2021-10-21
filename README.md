@@ -2,7 +2,7 @@
 
 <h1 align="center"> Olá! <img src="https://img.icons8.com/color/48/000000/cat_in_the_bin.png"/> </h1>
 
-  - 📚 Estudando Copywriting.
+  - 📚 Estudando palavras que convertem.
   
   <div>
     <a href="https://github.com/emilyscs">
